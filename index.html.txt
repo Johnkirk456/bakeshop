@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MY PROFILE</title>
+</head>
+<body>
+
+     <h1>This is a Heading</h1>
+     <a href="STRAWBERRY" target="_blank"><img src="STRAWBERRY.jpg" alt="">
+     <a href="STRAWBERRY">click me</a>
+
+</body>
+</html>
+
